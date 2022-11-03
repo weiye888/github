@@ -9,7 +9,7 @@ package cn.bdqn.controller;
 public class GithubController {
 
     public static void main(String[] args) {
-
+        System.out.println("胡海哈");
     }
 
 }
